@@ -1,0 +1,9 @@
+*.pkl
+*.yaml
+*.pt
+*.bin
+*.log
+*.json
+*.wandb
+*.pth
+events*

@@ -6,11 +6,4 @@
 *.json
 *.wandb
 *.pth
-*.txt
-*.pyc
-*.tar
-*.csv
-*.zip
-*.ipynb
-*.spiece
 events*

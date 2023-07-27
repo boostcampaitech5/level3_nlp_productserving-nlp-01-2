@@ -8,6 +8,8 @@
 
 ## 데이터셋
 
+데이터셋의 경우 핵심적인 판단 요소는 ‘텍스트의 양’과 ‘장르의 다양성’이었으며, 직접적으로 본문과 장르를 연결한 데이터셋으로 5만개의 movie description-genre dataset과 20만개의 book title-genre dataset 중 텍스트의 길이는 비교적 짧지만 양이 많고 장르적 다양성을 가진 후자를 Fine-tuning 데이터로 선정하였습니다.
+
 - 데이터셋: uchidalab book-dataset
 - 데이터 수: 약 20만개의 책 제목
 - 장르 수: 32개의 장르

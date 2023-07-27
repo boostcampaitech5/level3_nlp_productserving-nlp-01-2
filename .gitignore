@@ -6,4 +6,8 @@
 *.json
 *.wandb
 *.pth
+*.txt
+*.pyc
+*.tar
+*.csv
 events*
